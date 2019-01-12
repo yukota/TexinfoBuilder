@@ -1,0 +1,7 @@
+name = "TexinfoBuilder"
+uuid = "ab948a50-1675-11e9-2d1b-8177154d76bf"
+authors = ["YuK_Ota <whitenightwinter@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BinaryBuilder = "12aac903-9f7c-5d81-afc2-d9565ea332ae"
